@@ -1,0 +1,10 @@
+user1@example.com:password123
+user2@example.com:strongpass456
+test@example.com:test1234
+admin@example.com:admin1234
+johndoe@example.com:john2024
+janedoe@example.com:jane2024
+guest@example.com:guestpass
+support@example.com:helpdesk2024
+info@example.com:infopass
+contact@example.com:contact2024

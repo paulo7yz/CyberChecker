@@ -1,0 +1,11 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "kivy>=2.3.1",
+    "requests>=2.32.3",
+    "retry-requests>=2.0.0",
+    "urllib3>=2.4.0",
+]
